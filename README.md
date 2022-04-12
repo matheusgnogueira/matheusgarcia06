@@ -1,6 +1,6 @@
 ### Olá, Eu sou o Matheus Nogueira 👋
 
-- 🌱 Estudando HTML | CSS | JavaScript
+- 🌱 Estudando HTML | CSS | JavaScript | ReactJS
 - 😄 Pronouns: ele/dele 
 
 <div align="center">
