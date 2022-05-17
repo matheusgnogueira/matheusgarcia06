@@ -3,7 +3,7 @@
 
 - 🔥 Junior Web Developer 
 - 💬 Ask me about **JavaScript, HTML, CSS, React.JS**
-- 😄 Pronouns: Ele/Dele 
+- 😄 Pronouns: He/his 
 
 <br><br>
 
