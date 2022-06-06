@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px" height="10">, I'm Matheus Nogueira</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px" height="20">, I'm Matheus Nogueira</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheusgarcia06&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Junior Web Developer 
