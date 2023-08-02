@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheusgarcia06&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Junior Web Developer 
-- 💬 Ask me about **JavaScript, HTML, CSS, React.JS**
+- 💬 Ask me about **.NET, JavaScript, HTML, CSS, React.JS**
 - 😄 Pronouns: He/his 
 
 <br><br>
