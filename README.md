@@ -3,8 +3,8 @@
 ## About Me 🚀
 Sou um apaixonado Engenheiro de Software, com mais de 2 anos de experiência profissional na indústria de tecnologia, especializando em soluções de software escaláveis e de fácil manutenção.  
 
-💡 Gosto de explorar novas tecnologias e usá-las para construir coisas legais.
-🎓 Sou Bacharel em Engenharia Mecânica pelo Centro Universitário UNA.
+💡 Gosto de explorar novas tecnologias e usá-las para construir coisas legais.\
+🎓 Sou Bacharel em Engenharia Mecânica pelo Centro Universitário UNA.\
 🌱 Estou no caminho certo para aprender mais sobre Design de Sistemas e Arquitetura de Software.
 
 ## 🛠️ Technologies & Tools
@@ -22,7 +22,7 @@ Sou um apaixonado Engenheiro de Software, com mais de 2 anos de experiência pro
 
 ### Databases
 ![SQL Server]([https://img.shields.io/badge/Supabase-000?&logo=supabase](https://img.shields.io/badge/-SQL%20Server-CC2927?&logo=Microsoft%20SQL%20Server&logoColor=white
-))
+)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-000?logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 
