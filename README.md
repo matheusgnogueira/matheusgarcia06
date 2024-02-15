@@ -1,11 +1,11 @@
 # Hi there, I'm Matheus Nogueira 👋
 
 ## About Me 🚀
-Sou um apaixonado Engenheiro de Software, com mais de 2 anos de experiência profissional na indústria de tecnologia, especializando em soluções de software escaláveis e de fácil manutenção.  
+I am passionate about Software Engineering, with over 2 years of professional experience in the technology industry, specializing in scalable and maintainable software solutions. 
 
-💡 Gosto de explorar novas tecnologias e usá-las para construir coisas legais.\
-🎓 Sou Bacharel em Engenharia Mecânica pelo Centro Universitário UNA.\
-🌱 Estou no caminho certo para aprender mais sobre Design de Sistemas e Arquitetura de Software.
+💡 I enjoy exploring new technologies and using them to build cool things.\
+🎓 I hold a Bachelor's degree in Mechanical Engineering from Centro Universitário UNA.\
+🌱 I am on the right path to learning more about Systems Design and Software Architecture.
 
 ## 🛠️ Technologies & Tools
 
@@ -26,16 +26,17 @@ Sou um apaixonado Engenheiro de Software, com mais de 2 anos de experiência pro
 
 ## 📫 How to reach me
 
-Você pode entrar em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/matheusgarcianogueira) ou me enviar um e-mail para matheus.garcianogueira@hotmail.com. Farei o possível para responder o mais breve possível!
+You can reach out to me via [LinkedIn](https://www.linkedin.com/in/matheusgarcianogueira) or send me an email at matheus.garcianogueira@hotmail.com. I will do my best to respond as soon as possible!
 
 ## 🚧 Currently working on...
-Atualmente estou trabalhando como desenvolvedor Linear Softwares Matemáticos, é especializada em Otimização Matemática, Supply Chain, Estatística, Business Inteligence e Desenvolvimento de Software
-As principais tecnologias que estou utilizando são:
+Currently, I'm working as a developer at Linear Mathematical Software, specializing in Mathematical Optimization, Supply Chain, Statistics, Business Intelligence, and Software Development.
+
+The main technologies I'm using are:
 - React
 - TypeScript
 - Redux 
 - Sagas
-- .NET CORE
+- .NET Core
 - Entity Framework Core
   
-💬 Sinta-se à vontade para entrar em contato comigo para consultas, colaborações ou apenas para algumas discussões interessantes.
+💬 Feel free to reach out to me for inquiries, collaborations, or just for some interesting discussions.
