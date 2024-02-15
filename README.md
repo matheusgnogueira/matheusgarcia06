@@ -3,8 +3,6 @@
 ## About Me 🚀
 Sou um apaixonado Engenheiro de Software, com mais de 2 anos de experiência profissional na indústria de tecnologia, especializando em soluções de software escaláveis e de fácil manutenção.  
 
-I believe in the power of open-source communities and love contributing to them.
-
 💡 Gosto de explorar novas tecnologias e usá-las para construir coisas legais.
 🎓 Sou Bacharel em Engenharia Mecânica pelo Centro Universitário UNA.
 🌱 Estou no caminho certo para aprender mais sobre Design de Sistemas e Arquitetura de Software.
