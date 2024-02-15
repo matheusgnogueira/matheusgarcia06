@@ -21,9 +21,7 @@ Sou um apaixonado Engenheiro de Software, com mais de 2 anos de experiência pro
 ![.NET Core](https://img.shields.io/badge/-.NET%20Core-000?&logo=.net)
 
 ### Databases
-![SQL Server]([https://img.shields.io/badge/Supabase-000?&logo=supabase](https://img.shields.io/badge/-SQL%20Server-CC2927?&logo=Microsoft%20SQL%20Server&logoColor=white
-)
-![Postgres](https://img.shields.io/badge/PostgreSQL-000?logo=postgresql)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?&logo=Microsoft%20SQL%20Server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 
 ## 📫 How to reach me
