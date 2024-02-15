@@ -1,48 +1,45 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30">, I'm Matheus Nogueira</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=matheusgarcia06&color=yellow" alt="Profile views" /> </p>
+# Hi there, I'm Matheus Nogueira 👋
 
-- 🔥 Web Developer 
-- 💬 Ask me about **.NET, JavaScript, HTML, CSS, React.JS**
-- 😄 Pronouns: He/his 
+## About Me 🚀
+Sou um apaixonado Engenheiro de Software, com mais de 2 anos de experiência profissional na indústria de tecnologia, especializando em soluções de software escaláveis e de fácil manutenção.  
 
-<br><br>
+I believe in the power of open-source communities and love contributing to them.
 
-## 🛠 &nbsp;Tech Stack
+💡 Gosto de explorar novas tecnologias e usá-las para construir coisas legais.
+🎓 Sou Bacharel em Engenharia Mecânica pelo Centro Universitário UNA.
+🌱 Estou no caminho certo para aprender mais sobre Design de Sistemas e Arquitetura de Software.
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+## 🛠️ Technologies & Tools
 
-<br><br>
+### Front-End
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
+![Jquery](https://img.shields.io/badge/-jquery-000?&logo=jquery)
 
-## ⚙️ &nbsp;GitHub Analytics
+### Back-End
+![C#](https://img.shields.io/badge/-C%23-000?&logo=csharp)
+![.NET Core](https://img.shields.io/badge/-.NET%20Core-000?&logo=.net)
 
-<div align="center">
-  <a href="https://github.com/mmatheusgarcia06">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusgarcia06&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgarcia06&layout=compact&langs_count=7&theme=dark"/>
-</div>
+### Databases
+![SQL Server]([https://img.shields.io/badge/Supabase-000?&logo=supabase](https://img.shields.io/badge/-SQL%20Server-CC2927?&logo=Microsoft%20SQL%20Server&logoColor=white
+))
+![Postgres](https://img.shields.io/badge/PostgreSQL-000?logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 
-<br><br>
+## 📫 How to reach me
+
+Você pode entrar em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/matheusgarcianogueira) ou me enviar um e-mail para matheus.garcianogueira@hotmail.com. Farei o possível para responder o mais breve possível!
+
+## 🚧 Currently working on...
+Atualmente estou trabalhando como desenvolvedor Linear Softwares Matemáticos, é especializada em Otimização Matemática, Supply Chain, Estatística, Business Inteligence e Desenvolvimento de Software
+As principais tecnologias que estou utilizando são:
+- React
+- TypeScript
+- Redux 
+- Sagas
+- .NET CORE
+- Entity Framework Core
   
-## 🙋‍♂️ &nbsp;Social Links
-
-<p align="left" style="background:yellow">
-  <a href="https://www.linkedin.com/in/matheusgarcianogueira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-</p>
-
-<br><br>
-  
-<div> 
-
-  
-   ![Snake animation](https://github.com/matheusgarcia06/matheusgarcia06/blob/output/github-contribution-grid-snake.svg)
-  
- </div>
-
+💬 Sinta-se à vontade para entrar em contato comigo para consultas, colaborações ou apenas para algumas discussões interessantes.
