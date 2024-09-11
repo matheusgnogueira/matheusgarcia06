@@ -1,4 +1,4 @@
-# Hi there, I'm Matheus Nogueira 👋
+# Hi there, I'm Matheus Garcia 👋
 
 ## About Me 🚀
 I am passionate about Software Engineering, with over 2 years of professional experience in the technology industry, specializing in scalable and maintainable software solutions. 
